@@ -4,17 +4,19 @@ This repository contains a comprehensive analysis of claims data, detailing the 
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-4. [Feature Engineering](#feature-engineering)
-5. [Model Training and Evaluation](#model-training-and-evaluation)
-6. [Results and Findings](#results-and-findings)
-7. [Conclusion](#conclusion)
-8. [Future Work](#future-work)
-9. [Usage](#usage)
+2. [Data Descriptions] (#data-descriptions)
+3. [Data Preprocessing](#data-preprocessing)
+4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+5. [Feature Engineering](#feature-engineering)
+6. [Model Training and Evaluation](#model-training-and-evaluation)
+7. [Results and Findings](#results-and-findings)
+8. [Conclusion](#conclusion)
+9. [Future Work](#future-work)
+10. [Usage](#usage)
 
 ## Introduction
 This notebook provides a detailed analysis of claims data, demonstrating various techniques in data preprocessing, feature engineering, and model evaluation. The primary objective is to develop robust predictive models to forecast claim outcomes accurately.
+
 
 ## Data Preprocessing
 - **Data Cleaning:** Handled missing values and outliers.
