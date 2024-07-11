@@ -1,0 +1,35 @@
+This dataset contains information about insurance claims, with 33 columns and 10,296 rows. Below is a description of each column:
+
+ID: Unique identifier for each record.
+KIDSDRIV: Number of kids driving.
+PLCYDATE: Policy date.
+TRAVTIME: Travel time.
+CAR_USE: Usage of the car (Private/Commercial).
+POLICYNO: Policy number.
+BLUEBOOK: Vehicle's blue book value.
+INITDATE: Policy initiation date.
+RETAINED: Number of years the policy has been retained.
+NPOLICY: Number of policies.
+CAR_TYPE: Type of the car.
+RED_CAR: Whether the car is red or not.
+OLDCLAIM: Previous claim amount.
+CLM_FREQ: Frequency of claims.
+REVOKED: Whether the driver's license is revoked.
+MVR_PTS: Motor vehicle record points.
+CLM_AMT: Claim amount.
+CLM_DATE: Claim date.
+CLM_FLAG: Indicator if a claim was made.
+BIRTH: Birth date of the policyholder.
+AGE: Age of the policyholder.
+HOMEKIDS: Number of kids at home.
+YOJ: Years on the job.
+INCOME: Income of the policyholder.
+GENDER: Gender of the policyholder.
+MARRIED: Marital status.
+PARENT1: Whether the policyholder is a parent.
+JOBCLASS: Job classification.
+MAX_EDUC: Highest level of education.
+HOME_VAL: Value of the home.
+SAMEHOME: Number of years living in the same home.
+DENSITY: Population density of the area.
+YEARQTR: Year and quarter of the policy date.
