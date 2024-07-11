@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of claims data, detailing the 
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Descriptions] (./datadescriptions.text)
+2. [Data Descriptions] (datadescriptions.txt)
 3. [Data Preprocessing](#data-preprocessing)
 4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 5. [Feature Engineering](#feature-engineering)
