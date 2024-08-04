@@ -18,7 +18,7 @@ This repository contains a comprehensive analysis of claims data, detailing the 
 This notebook provides a detailed analysis of claims data, demonstrating various techniques in data preprocessing, feature engineering, and model evaluation. The primary objective is to develop robust predictive models to forecast claim outcomes accurately.
 
 
-## Data Preprocessing
+## Data Preprocessing 
 - **Data Cleaning:** Handled missing values and outliers.
 - **Encoding:** Converted categorical variables into numerical values.
 - **Scaling:** Applied scaling techniques to normalize the data.
